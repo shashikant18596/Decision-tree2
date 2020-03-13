@@ -1,0 +1,17 @@
+company,job,degree,salary
+google,se,bachelor,0
+google,se,master,0
+google,bm,bachelor,1
+google,bm,master,1
+google,cp,bachelor,0
+google,cp,master,1
+abc pharma,se,master,0
+abc pharma,cp,bachelor,0
+abc pharma,bm,bachelor,0
+abc pharma,bm,master,1
+facebook,se,bachelor,1
+facebook,se,master,1
+facebook,bm,bachelor,1
+facebook,bm,master,1
+facebook,cp,bachelor,1
+facebook,cp,master,1
